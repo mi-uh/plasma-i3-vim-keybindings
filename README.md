@@ -1,6 +1,6 @@
-# i3plasma
+# Plasma-i3-vim-keybindings
 
-KDE Plasma shortcuts inspired by i3 and Vim. `Meta` is the primary modifier, with navigation based on `H/J/K/L`.
+KDE Plasma keybindings inspired by i3 and Vim. `Meta` is the primary modifier, with navigation based on `H/J/K/L`.
 
 ## Key bindings
 
@@ -23,4 +23,4 @@ On German keyboard layouts, KDE displays `Meta + Shift + 1–3` as `Meta + !`, `
 
 ## Installation
 
-Open **System Settings → Keyboard → Shortcuts**, then import [`i3plasma-custom.kksrc`](./i3plasma-custom.kksrc).
+Open **System Settings → Keyboard → Shortcuts**, then import [`plasma-i3-vim-keybindings.kksrc`](./plasma-i3-vim-keybindings.kksrc).
